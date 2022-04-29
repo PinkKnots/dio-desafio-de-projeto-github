@@ -1,0 +1,2 @@
+- Trabalhando com as suas primeiras tabelas
+- Consultas com join

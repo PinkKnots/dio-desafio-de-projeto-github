@@ -1,0 +1,17 @@
+- Introduçao ao JS
+- Sintaxe e operadores
+- Variáveis e tipos
+- Funçoes
+- Coleçoes
+- Mao, filter e reduce
+- Debugging e error handling
+- JS assincrono
+- Orientação a objetos
+- Trabalhando com modulos em JS
+- Manipulando a D.O.M. com JS
+- Introdução ao TypeScript: Explorando classes, tipos e interfaces
+
+Desafios
+
+- Desafios iniciais JS - Spread Fullstack
+- Aprenda a criar um sistema de estacionamento usando o TypeScript

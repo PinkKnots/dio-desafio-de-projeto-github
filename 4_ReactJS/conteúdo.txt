@@ -1,0 +1,11 @@
+- Introdução ao ReactJS
+- Introdução aos React Hooks
+- Trabalhando com States & Effects no ReactJS
+- Desenvolvimento de aplicações para internet com ReactJS
+- Práticas avançadas em projetos com ReactJS
+- Introdução a Redux com ReactJS
+
+Desafios
+
+- Desafios intermediários JS - Spread Fullstack
+- Criando um front-end totalmente componetizado na prática com ReactJS 
